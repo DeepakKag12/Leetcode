@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0494-target-sum) |
 ## Hash Table
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0494-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
