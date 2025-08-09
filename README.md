@@ -36,4 +36,16 @@
 | ------- |
 | [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
