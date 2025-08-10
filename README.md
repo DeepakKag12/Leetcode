@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0494-target-sum) |
+| [1646-kth-missing-positive-number](https://github.com/DeepakKag12/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/DeepakKag12/Leetcode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
