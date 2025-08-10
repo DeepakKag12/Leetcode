@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/DeepakKag12/Leetcode/tree/master/1646-kth-missing-positive-number) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
