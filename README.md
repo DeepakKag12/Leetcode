@@ -24,6 +24,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0494-target-sum) |
+| [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/2050-count-good-numbers) |
 ## String
@@ -59,5 +61,10 @@
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/2050-count-good-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
