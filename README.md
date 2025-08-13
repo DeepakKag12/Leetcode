@@ -19,6 +19,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/DeepakKag12/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/2050-count-good-numbers) |
@@ -65,6 +67,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
