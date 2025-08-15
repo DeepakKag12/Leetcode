@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/DeepakKag12/Leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/DeepakKag12/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Dynamic Programming
 |  |
@@ -39,12 +40,14 @@
 | [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DeepakKag12/Leetcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/DeepakKag12/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DeepakKag12/Leetcode/tree/master/0148-sort-list) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DeepakKag12/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -87,4 +90,12 @@
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeepakKag12/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DeepakKag12/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DeepakKag12/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DeepakKag12/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
