@@ -55,6 +55,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/DeepakKag12/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/2050-count-good-numbers) |
 ## String
@@ -64,6 +65,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/DeepakKag12/Leetcode/tree/master/1448-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DeepakKag12/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
