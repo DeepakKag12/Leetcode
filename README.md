@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepakKag12/Leetcode/tree/master/0002-add-two-numbers) |
+| [0441-arranging-coins](https://github.com/DeepakKag12/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/DeepakKag12/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/DeepakKag12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -71,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/DeepakKag12/Leetcode/tree/master/0441-arranging-coins) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeepakKag12/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/DeepakKag12/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DeepakKag12/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
