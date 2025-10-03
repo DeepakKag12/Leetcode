@@ -1,7 +1,7 @@
 class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        int n = obstacleGrid.length;        // rows
-        int m = obstacleGrid[0].length;     // columns
+        int n = obstacleGrid.length;       
+        int m = obstacleGrid[0].length;   
         int[][] dp = new int[n][m];
 
         dp[0][0] = (obstacleGrid[0][0] == 0) ? 1 : 0;
