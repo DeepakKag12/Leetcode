@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/DeepakKag12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeepakKag12/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeepakKag12/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/DeepakKag12/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/DeepakKag12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DeepakKag12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeepakKag12/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeepakKag12/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DeepakKag12/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
