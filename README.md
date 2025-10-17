@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/DeepakKag12/Leetcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -114,5 +115,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0063-unique-paths-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
