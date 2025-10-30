@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakKag12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepakKag12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakKag12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/DeepakKag12/Leetcode/tree/master/1013-fibonacci-number) |
