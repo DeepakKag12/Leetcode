@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DeepakKag12/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/DeepakKag12/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/DeepakKag12/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DeepakKag12/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -79,6 +80,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DeepakKag12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/DeepakKag12/Leetcode/tree/master/0441-arranging-coins) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeepakKag12/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/DeepakKag12/Leetcode/tree/master/1646-kth-missing-positive-number) |
